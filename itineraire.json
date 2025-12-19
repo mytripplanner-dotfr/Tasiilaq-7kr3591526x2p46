@@ -1,0 +1,249 @@
+{
+  "pays": "Groenland",
+  "drapeau": "🇬🇱",
+  "symbole": "🧊",
+  "titre": "L'Appel Arctique : Aventure à Tasiilaq",
+  "budget_total": "5500€",
+  "duree": "7 jours",
+  "date_debut": "2026-02-10",
+  "date_fin": "2026-02-16",
+  "temps_vol": "25h depuis Jacob, etats unis avec escales",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée au cœur de l'Arctique",
+      "legende": "Après un long voyage, vous atterrissez à Kulusuk puis rejoignez Tasiilaq en hélicoptère. Prenez le temps de vous installer et de ressentir l'atmosphère unique de ce village isolé, porte d'entrée de l'Est groenlandais. La journée est légère pour s'acclimater au froid et au décalage horaire.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🛬 <strong>Arrivée et transfert à Tasiilaq</strong> : Après votre vol international et un court vol intérieur vers Kulusuk, un hélicoptère vous mènera à Tasiilaq, offrant des vues aériennes spectaculaires sur les fjords gelés. Ce transfert est une expérience en soi, révélant l'isolement et la beauté du paysage.",
+        "🛏️ <strong>Installation à l'hôtel et découverte des environs immédiats</strong> : Prenez vos quartiers à l'hôtel et profitez d'une courte balade autour de l'établissement pour vous dégourdir les jambes. Observez les maisons colorées et les traîneaux à chiens garés, signes de la vie locale."
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Les vols vers le Groenland impliquent souvent des escales à Copenhague ou Reykjavik, puis un vol intérieur vers Kulusuk. Le transfert final vers Tasiilaq se fait en hélicoptère, une expérience mémorable."
+        },
+        {
+          "symbole": "🌡️",
+          "titre": "Températures",
+          "texte": "En février, les températures à Tasiilaq peuvent varier de -5°C à -20°C, voire plus froid. Prévoyez des vêtements très chauds et multicouches."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🏘️",
+      "titre": "Immersion culturelle et vie locale",
+      "legende": "Plongez dans l'histoire et la culture inuite en visitant le musée local et en explorant les rues de Tasiilaq. C'est l'occasion de comprendre le mode de vie des habitants et d'admirer l'artisanat traditionnel.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🏛️ <strong>Visite du Musée de Tasiilaq</strong> : Découvrez l'histoire fascinante de la région, l'art de vivre des Inuits de l'Est et les traditions locales à travers des expositions d'artefacts et de photographies. Ce musée offre un aperçu précieux de la culture groenlandaise.",
+        "🚶‍♂️ <strong>Exploration libre du village</strong> : Flânez dans les rues colorées de Tasiilaq, observez les pêcheurs et les chasseurs, et imprégnez-vous de l'ambiance paisible. C'est une excellente occasion de prendre des photos et de ressentir le pouls de la communauté."
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "🗣️",
+          "titre": "Langues",
+          "texte": "Les langues officielles sont le groenlandais et le danois. L'anglais est parlé dans les hôtels et par les guides touristiques."
+        },
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "N'hésitez pas à saluer les habitants, ils sont généralement accueillants. Un simple \"Aluu\" (bonjour en groenlandais) peut ouvrir des sourires."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🐕",
+      "titre": "Aventure en traîneau à chiens",
+      "legende": "Vivez une expérience arctique authentique et inoubliable : une excursion en traîneau à chiens. Laissez-vous guider par les mushers locaux à travers des paysages enneigés à couper le souffle, au rythme des aboiements et du silence immaculé.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🐕 <strong>Excursion en traîneau à chiens sur les fjords gelés</strong> : Participez à une demi-journée de traîneau à chiens, une tradition ancestrale et le moyen de transport hivernal par excellence. Vous glisserez sur la glace et la neige, entouré par la majesté des montagnes et des icebergs figés."
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "⚠️",
+          "titre": "Sécurité",
+          "texte": "Écoutez attentivement les instructions de votre musher. Il est essentiel de respecter les chiens et les règles de sécurité pour une expérience agréable et sans danger."
+        },
+        {
+          "symbole": "📸",
+          "titre": "Photographie",
+          "texte": "Prévoyez des batteries supplémentaires pour votre appareil photo, le froid réduit considérablement leur autonomie. Des gants tactiles sont également très utiles."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "🏔️",
+      "titre": "Randonnée en raquettes et panoramas",
+      "legende": "Chaussez vos raquettes pour une randonnée paisible à travers les collines enneigées autour de Tasiilaq. Cette activité vous offrira des vues imprenables sur le fjord et les montagnes environnantes, dans un silence seulement brisé par le crissement de la neige.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🥾 <strong>Randonnée guidée en raquettes vers un point de vue panoramique</strong> : Accompagné d'un guide local, partez à la découverte des paysages hivernaux. La randonnée vous mènera à un sommet offrant une vue spectaculaire sur Tasiilaq, le fjord d'Ammassalik et les montagnes environnantes."
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "💪",
+          "titre": "Niveau physique",
+          "texte": "La randonnée en raquettes est accessible à la plupart des niveaux, mais une bonne condition physique est recommandée. Le rythme est adapté au groupe."
+        },
+        {
+          "symbole": "🎒",
+          "titre": "Équipement",
+          "texte": "Votre guide vous fournira les raquettes et bâtons. Pensez à apporter de l'eau, des snacks et des couches de vêtements supplémentaires."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🏍️",
+      "titre": "Exploration en motoneige des fjords gelés",
+      "legende": "Accélérez le rythme avec une excursion en motoneige sur les vastes étendues gelées. Cette aventure vous permettra d'atteindre des recoins plus éloignés, d'admirer des icebergs monumentaux et de ressentir la puissance de la nature arctique.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🏍️ <strong>Excursion en motoneige sur le fjord d'Ammassalik</strong> : Partez pour une demi-journée d'adrénaline en motoneige, explorant les paysages glacés du fjord. Vous aurez l'occasion de voir des icebergs figés dans la glace et de profiter de la vitesse sur ces étendues immaculées."
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "🧤",
+          "titre": "Vêtements",
+          "texte": "Un équipement thermique complet (combinaison, gants, casque) est généralement fourni pour les excursions en motoneige. Assurez-vous qu'il soit bien ajusté."
+        },
+        {
+          "symbole": "🌬️",
+          "titre": "Vent",
+          "texte": "Le vent peut être très mordant en motoneige. Protégez bien votre visage avec un cache-cou ou une cagoule."
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🌌",
+      "titre": "Chasse aux aurores boréales et artisanat",
+      "legende": "La journée est dédiée à la découverte de l'artisanat local, parfait pour trouver des souvenirs uniques. Le soir, partez à la recherche des aurores boréales, un spectacle céleste magique qui illumine le ciel arctique de ses voiles colorés.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🛍️ <strong>Visite des ateliers d'artisanat local</strong> : Explorez les petites boutiques et ateliers où les artisans locaux créent des objets uniques à partir de matériaux naturels comme l'os, la pierre ou la peau de phoque. C'est l'occasion d'acquérir un souvenir authentique et de soutenir la communauté.",
+        "🌌 <strong>Excursion nocturne pour observer les aurores boréales</strong> : Loin de la pollution lumineuse du village, partez avec un guide pour maximiser vos chances d'admirer les aurores boréales. Ce phénomène naturel est une expérience inoubliable, peignant le ciel de vert et de rose."
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "✨",
+          "titre": "Aurores boréales",
+          "texte": "La visibilité des aurores boréales dépend de l'activité solaire et de la couverture nuageuse. Février est une excellente période pour les observer."
+        },
+        {
+          "symbole": "🎁",
+          "titre": "Souvenirs",
+          "texte": "Les tupilaks (petites figurines sculptées) sont des souvenirs emblématiques du Groenland, chacun ayant une signification unique."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "🛫",
+      "titre": "Derniers regards et départ",
+      "legende": "Profitez de vos dernières heures à Tasiilaq pour une ultime balade, quelques achats de dernière minute ou simplement pour vous imprégner une dernière fois de l'atmosphère unique de ce lieu. Il est temps de dire au revoir à l'Arctique avant votre vol retour.",
+      "lieu": "Tasiilaq",
+      "activites": [
+        "🚶‍♀️ <strong>Balade matinale et derniers achats</strong> : Profitez de la matinée pour une dernière promenade dans le village, revisitez un lieu coup de cœur ou achetez les derniers souvenirs. C'est le moment de graver ces images dans votre mémoire.",
+        "🛫 <strong>Transfert à l'aéroport de Kulusuk et vol retour</strong> : Un hélicoptère vous ramènera à Kulusuk pour prendre votre vol. Gardez l'œil ouvert pour des vues aériennes finales sur les paysages glacés qui vous ont tant émerveillé."
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "⏰",
+          "titre": "Heure de départ",
+          "texte": "Les horaires des vols et des hélicoptères peuvent être sujets à des changements en raison des conditions météorologiques. Prévoyez une certaine flexibilité."
+        },
+        {
+          "symbole": "👋",
+          "titre": "Au revoir",
+          "texte": "Le Groenland est une destination qui marque les esprits. Emportez avec vous les souvenirs de ses paysages grandioses et de sa culture unique."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    {
+      "titre": "Budget vol:",
+      "legende": "2000€/pers (Vol Jacob, USA - Kulusuk A/R via Copenhague/Reykjavik + hélicoptère Kulusuk - Tasiilaq A/R)",
+      "symbole": "🛬"
+    },
+    {
+      "titre": "Budget transports:",
+      "legende": "600€/pers (Transferts locaux, excursions motoneige et traîneau à chiens)",
+      "symbole": "🚆"
+    },
+    {
+      "titre": "Budget repas:",
+      "legende": "630€/pers (7 jours x 90€/jour pour 3 repas, boissons non alcoolisées)",
+      "symbole": "🥗"
+    },
+    {
+      "titre": "Budget logement:",
+      "legende": "1200€/pers (6 nuits en hôtel 3 étoiles à Tasiilaq, base chambre double)",
+      "symbole": "🛏️"
+    },
+    {
+      "titre": "Budget activités:",
+      "legende": "1000€/pers (Traîneau à chiens, motoneige, raquettes, musée, aurores boréales)",
+      "symbole": "🎭"
+    }
+  ],
+  "periodes_ideales": [
+    {
+      "titre": "Les périodes idéales pour ce séjour sont les mois de Février à Avril pour les activités hivernales et les aurores boréales, ou Juillet à Août pour la randonnée et les excursions en bateau.",
+      "symbole": "🧊"
+    }
+  ],
+  "infos_pratiques": [
+    {
+      "titre": "La population de Tasiilaq est d'environ 2000 habitants, majoritairement d'origine inuite. Ils vivent principalement de la chasse, de la pêche et du tourisme.",
+      "symbole": "👥"
+    },
+    {
+      "titre": "Le Groenland est un territoire autonome du Royaume du Danemark. Sa capitale est Nuuk. Tasiilaq est la plus grande ville de l'Est du Groenland.",
+      "symbole": "🇬🇱"
+    },
+    {
+      "titre": "Fait insolite : Tasiilaq est l'une des rares villes au monde où les traîneaux à chiens sont encore un moyen de transport essentiel, notamment pour la chasse et la pêche sur glace.",
+      "symbole": "🐕"
+    },
+    {
+      "titre": "Fait insolite : Il n'y a pas de routes reliant les villes au Groenland. Tous les déplacements entre les localités se font par avion, hélicoptère, bateau ou traîneau à chiens.",
+      "symbole": "🚁"
+    }
+  ],
+  "liens_utiles": [
+    {
+      "legende": "Informations officielles et inspiration pour le Groenland",
+      "titre": "Visit Greenland",
+      "url": "https://visitgreenland.com/",
+      "symbole": "📘"
+    },
+    {
+      "legende": "Compagnie aérienne principale pour le Groenland",
+      "titre": "Air Greenland",
+      "url": "https://www.airgreenland.com/",
+      "symbole": "✈️"
+    },
+    {
+      "legende": "Prévisions météo locales pour Tasiilaq",
+      "titre": "DMI (Météo Danemark)",
+      "url": "https://www.dmi.dk/groenland/",
+      "symbole": "🌤️"
+    }
+  ]
+}
